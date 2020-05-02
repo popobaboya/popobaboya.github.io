@@ -1,3 +1,4 @@
+remote_theme : mmistakes/minimal-mistakes
 # Site settings
 title: Handong OSS
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
